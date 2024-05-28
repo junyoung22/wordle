@@ -1,4 +1,4 @@
-const 정답 = "APPLE";
+const 정답 = "FILED";
 
 let attempts = 0; // n번의 시도
 let index = 0; // index값을 수정하기위해 0으로 설정
